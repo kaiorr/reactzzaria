@@ -1,7 +1,9 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 const Login = () => (
-  <h1>Login</h1>
+  <Fragment>
+    <h1>Login</h1>
+  </Fragment>
 )
 
 export default Login
