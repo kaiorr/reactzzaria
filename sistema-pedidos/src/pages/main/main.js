@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router-dom'
 
 const routes = [
   { path: '/rota1', content: 'Rota 1' },
-  { path: '/rota/2', content: 'Rota 2' }
+  { path: '/rota2', content: 'Rota 2' }
 ]
 
 const Main = () => (
