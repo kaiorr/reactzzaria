@@ -6,7 +6,7 @@ import {Button, Grid} from '@material-ui/core'
 import GitHubIcon from '@material-ui/icons/GitHub';
 import { ReactComponent as Logo } from '../../assets/logo-react-zzaria.svg'
 
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyADdMggpnHHA6NazGa8e58qtEDNVq-zUnI",
   authDomain: "reactzzaria-cd343.firebaseapp.com",
   projectId: "reactzzaria-cd343",
