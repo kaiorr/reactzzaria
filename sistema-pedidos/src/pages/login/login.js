@@ -1,4 +1,4 @@
-import React, {PureComponent} from 'react'
+import React, {z} from 'react'
 import styled from 'styled-components'
 import firebase from 'firebase/app'
 import 'firebase/auth'
